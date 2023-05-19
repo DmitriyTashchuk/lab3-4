@@ -50,7 +50,7 @@ header.header {
   font-size: 50px;
   color: white; 
 } 
-.nav-menu { 
+.menu { 
   display: none;
 } 
 /* .main.content {      
@@ -274,7 +274,7 @@ html, body {
   margin: 0;     
   padding: 0; 
 }  
-body {     
+body {   
   background-color: whitesmoke; 
 }  
 .header, .main {     
@@ -432,7 +432,7 @@ header.header {
 .sub_block.new_dex {     
   background-position: center center;     
   background-repeat: no-repeat;     
-  background-image: url(../img/last.png);     
+  background-image: url(img/last.jpg);     
   height: 631px;     
   display: flex;     
   justify-content: center;     
